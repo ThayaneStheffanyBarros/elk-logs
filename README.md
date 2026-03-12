@@ -7,8 +7,8 @@ Este projeto demonstra a centralização de logs utilizando o **ELK Stack** (Ela
 ## Integrantes
 
 - Ailton José de Araújo Júnior
-- Nome 2
-- Nome 3
+- Maria Clara
+- Rayane Bezerra da Silva
 - Thayane Stheffany Silva Barros
 
 ## Professor
